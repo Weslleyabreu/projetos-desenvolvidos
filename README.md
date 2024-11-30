@@ -5,6 +5,7 @@ Aqui você encontrará uma coleção dos meus projetos desenvolvidos ao longo da
 
 Projetos Mobile com Flutter 📱
 Aplicações Back-end e Front-end 🌐
+Projetos em Java ☕
 Scripts e ferramentas úteis ⚙️
 Experimentos e protótipos criativos 💡
 💼 Objetivo:
