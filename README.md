@@ -16,3 +16,5 @@ Se algum dos projetos chamar sua atenção ou você quiser conversar sobre oport
 
 E-mail: ebile2@gmail.com
 LinkedIn: https://www.linkedin.com/in/weslley-abreu-279a5860/
+Certificados concluídos:
+https://drive.google.com/drive/folders/188-aFcntoYnExGmua3GqHbN2END6_aGa?usp=drive_link
