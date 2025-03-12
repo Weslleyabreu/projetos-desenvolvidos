@@ -1,15 +1,3 @@
-Programa - Sistema de Agendamento de Clientes
-O Programa é um software desenvolvido para agilizar o processo de agendamento de clientes em empresas de diferentes segmentos. Criado com Flutter e utilizando o Firebase como banco de dados em tempo real, o programa facilita o gerenciamento de clientes, funcionários, agendamentos e relatórios.
-
-Funcionalidades Principais:
-Cadastro de Clientes: O programa permite o cadastro de clientes com informações como nome, telefone, e-mail, e histórico de agendamentos.
-Cadastro de Funcionários: Inclui o registro de dados dos funcionários da empresa, com cargos e horários de trabalho.
-Agendamento de Serviços: Funcionarios podem agendar serviços diretamente no sistema, selecionando a data, horário e funcionário desejado.
-Controle de Status de Agendamentos: O programa monitora o status dos agendamentos, como pendentes, concluídos ou cancelados, facilitando o acompanhamento.
-Relatórios de Agendamentos: Geração de relatórios detalhados sobre agendamentos concluídos, pendentes e cancelados, para análise de desempenho.
-Objetivo do Programa:
-O Programa foi desenvolvido para atender empresas que buscam otimizar seus processos de agendamento, oferecendo uma solução prática e eficiente para o gerenciamento de clientes e agendamentos. Com um design simples e funcional, o programa proporciona maior controle e organização nas atividades diárias, permitindo uma melhor experiência tanto para clientes quanto para funcionários.
-
-Tecnologias Utilizadas:
-Flutter: Framework utilizado para o desenvolvimento do aplicativo, garantindo uma interface intuitiva e responsiva.
-Firebase: Banco de dados em tempo real utilizado para gerenciar o armazenamento dos dados de clientes, funcionários e agendamentos, permitindo sincronização instantânea e segura entre todos os dispositivos conectados.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb2e8d18e13d4c86e24bafb6aa8f9a1a4d3a9953a73d7446f55674fb9cccac67
+size 13760100
